@@ -1,2 +1,2 @@
 # drawio
-Storing sketches drawing in draw.io
+Storing diagrams drawing in draw.io
